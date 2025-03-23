@@ -60,3 +60,4 @@ Publish the dashboard for stakeholder analysis.
 This Power BI Sales Dashboard effectively transforms raw data into meaningful insights using Power Query and DAX. The visualizations enhance business intelligence, enabling stakeholders to make informed decisions.
 
 🔹 Feel free to fork this repository and contribute! For queries, open an issue or reach out. 🚀
+
